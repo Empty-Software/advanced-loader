@@ -43,10 +43,6 @@ Gerekli paketleri yükleyin
   pip install -r modules.txt
 ```
 
-```bash
-  Exe'yi çalıştırın
-```
-
   
 ## İlişkili Projeler
 
