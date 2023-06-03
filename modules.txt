@@ -1,0 +1,14 @@
+QUrl
+Qt
+QFont
+QDesktopServices
+QWidget
+QApplication
+QLabel
+QLineEdit
+QPushButton
+QVBoxLayout
+QHBoxLayout
+QMessageBox
+subprocess
+sys
