@@ -30,7 +30,7 @@ Bu proje bir loader'dır!
     
 ## Lisans
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Christopheryves/advanced-loader/blob/main/LICENSE)
 
   
 ## Bilgisayarınızda Çalıştırın
